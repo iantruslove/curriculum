@@ -4,7 +4,7 @@ ClojureBridge Curriculum
 Please look at [README.md](https://github.com/ClojureBridge/curriculum/blob/gh-pages/README.md).
 
 All files have been moved to gh-pages branch.
-Please switch the branch to gh-pages.
+Switch the branch to [gh-pages](https://github.com/ClojureBridge/curriculum/tree/gh-pages).
 
 Temporarily, files are saved in `backup` directory for a reference.
 Those will be deleted at some point.
