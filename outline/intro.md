@@ -482,6 +482,8 @@ numbers.
 </section>
 
 <section>
-Go to the <a href="javascript:;" onClick="Reveal.slide(1);">first slide</a>,
-or back to the [curriculum outline](/curriculum/#/1).
+That's all!
+
+Go back to the <a href="javascript:;" onClick="Reveal.slide(1);">first slide</a>,
+or to the [curriculum outline](/curriculum/#/1).
 </section>
